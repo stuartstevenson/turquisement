@@ -1,4 +1,4 @@
-# turquisement
+# turquoisement
 
 a bluegreen deployment tool
 
